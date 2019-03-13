@@ -1,7 +1,7 @@
 {
   "name": "thanosjs",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reduce the file size of your project down to 50%, by randomly deleting half of the files.",
   "author": {
     "name": "TiagoDanin",
@@ -46,10 +46,12 @@
     "Marvel Characteristics",
     "Free up space"
   ],
-  "thanks": [{
-    "name": "Netlify",
-    "url": "https://thanosjs.org/",
-    "description": "Inspired by https://thanosjs.org"
-  }],
+  "thanks": [
+    {
+      "name": "Netlify",
+      "url": "https://thanosjs.org/",
+      "description": "Inspired by https://thanosjs.org"
+    }
+  ],
   "preferGlobal": true
 }
