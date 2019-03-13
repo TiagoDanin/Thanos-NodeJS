@@ -7,7 +7,7 @@ const argv = require('minimist')(process.argv)
 let allFiles = []
 const showHelp = () => {
 	return console.log(`
-THANOS JS by Tiago Danin
+THANOS NodeJS by Tiago Danin
 Inspired by https://thanosjs.org
 
 Reduce the file size of your project down to 50%,

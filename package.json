@@ -1,5 +1,5 @@
 {
-  "name": "thanosjs",
+  "name": "thanos-nodejs",
   "main": "index.js",
   "version": "1.0.1",
   "description": "Reduce the file size of your project down to 50%, by randomly deleting half of the files.",
@@ -22,11 +22,11 @@
     "test": "echo \"Nice Test :)\""
   },
   "private": false,
-  "repository": "https://github.com/TiagoDanin/ThanosJS.git",
-  "homepage": "https://TiagoDanin.github.io/ThanosJS",
-  "bugs": "https://github.com/TiagoDanin/ThanosJS/issues",
+  "repository": "https://github.com/TiagoDanin/Thanos-NodeJS.git",
+  "homepage": "https://TiagoDanin.github.io/Thanos-NodeJS",
+  "bugs": "https://github.com/TiagoDanin/Thanos-NodeJS/issues",
   "github": {
-    "name": "ThanosJS",
+    "name": "Thanos-NodeJS",
     "owner": "TiagoDanin"
   },
   "files": [
@@ -49,8 +49,8 @@
   "thanks": [
     {
       "name": "Netlify",
-      "url": "https://thanosjs.org/",
-      "description": "Inspired by https://thanosjs.org"
+      "url": "https://thanosjs.org",
+      "description": "Inspired by thanosjs.org"
     }
   ],
   "preferGlobal": true
