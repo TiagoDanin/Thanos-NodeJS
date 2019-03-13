@@ -1,7 +1,7 @@
 {
   "name": "thanos-nodejs",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reduce the file size of your project down to 50%, by randomly deleting half of the files.",
   "author": {
     "name": "TiagoDanin",
