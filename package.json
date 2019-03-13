@@ -46,5 +46,10 @@
     "Marvel Characteristics",
     "Free up space"
   ],
+  "thanks": [{
+    "name": "Netlify",
+    "url": "https://thanosjs.org/",
+    "description": "Inspired by https://thanosjs.org"
+  }],
   "preferGlobal": true
 }
