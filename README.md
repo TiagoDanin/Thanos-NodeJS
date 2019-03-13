@@ -1,7 +1,7 @@
-# ThanosJS
-[![Version](https://img.shields.io/npm/v/thanosjs.svg?style=flat-square)](https://npmjs.org/package/thanosjs)
-[![Downloads](https://img.shields.io/npm/dt/thanosjs.svg?style=flat-square)](https://npmjs.org/package/thanosjs)
-[![Travis](https://img.shields.io/travis/TiagoDanin/ThanosJS.svg?branch=master&style=flat-square)](https://travis-ci.org/TiagoDanin/ThanosJS)
+# Thanos NodeJS
+[![Version](https://img.shields.io/npm/v/thanos-nodejs.svg?style=flat-square)](https://npmjs.org/package/thanos-nodejs)
+[![Downloads](https://img.shields.io/npm/dt/thanos-nodejs.svg?style=flat-square)](https://npmjs.org/package/thanos-nodejs)
+[![Travis](https://img.shields.io/travis/TiagoDanin/Thanos-NodeJS.svg?branch=master&style=flat-square)](https://travis-ci.org/TiagoDanin/Thanos-NodeJS)
 
 Reduce the file size of your project down to 50%, by randomly deleting half of the files.
 
@@ -19,9 +19,9 @@ command line tools.
 
 ```sh
 # NPM
-npm install thanosjs --global
+npm install thanos-nodejs --global
 # Or Using Yarn
-yarn global add thanosjs
+yarn global add thanos-nodejs
 ```
 
 ## Usage
@@ -40,10 +40,10 @@ thanos --universe [dir] --spiderman [file]
 
 
 ## Contributors
-Pull requests and stars are always welcome. For bugs and feature requests, please [create an issue](https://github.com/TiagoDanin/ThanosJS/issues). [List of all contributors](https://github.com/TiagoDanin/ThanosJS/graphs/contributors).
+Pull requests and stars are always welcome. For bugs and feature requests, please [create an issue](https://github.com/TiagoDanin/Thanos-NodeJS/issues). [List of all contributors](https://github.com/TiagoDanin/Thanos-NodeJS/graphs/contributors).
 
 ## Thanks
-- [Netlify](https://thanosjs.org/): Inspired by https://thanosjs.org
+- [Netlify](https://thanosjs.org): Inspired by thanosjs.org
 
 ## License
 [MIT](LICENSE) © [TiagoDanin](https://TiagoDanin.github.io)
