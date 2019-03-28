@@ -14,7 +14,7 @@ Reduce the file size of your project down to 50%,
 by randomly deleting half of the files.
 
 Use: thanos --universe [dir]
-You can save a single file with --spiderman [file]
+You can save a single file with --ironman [file]
 	`)
 }
 
@@ -32,8 +32,8 @@ const getFiles = (dir) => {
 const main = () => {
 	getFiles(path.resolve(process.cwd(), argv.universe))
 
-	if (argv.spiderman) {
-		allFiles = allFiles.filter(f => f != path.resolve(argv.spiderman))
+	if (argv.ironman) {
+		allFiles = allFiles.filter(f => f != path.resolve(argv.ironman))
 	}
 
 	const max = Math.round(allFiles.length / 2)
