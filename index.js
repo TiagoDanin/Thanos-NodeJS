@@ -12,6 +12,8 @@ Inspired by https://thanosjs.org
 
 Reduce the file size of your project down to 50%,
 by randomly deleting half of the files.
+It uses fs.unlinkSync to delete the files.
+It traverses the whole directory structure down from where the command is executed. So files inside child directories might be deleted.
 
 Use: thanos --universe [dir]
 You can save a single file with --ironman [file]
