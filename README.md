@@ -19,7 +19,7 @@ command line tools.
 
 ```sh
 # NPM
-npm install -g thanos-js
+npm install thanos-nodejs --global
 # Or Using Yarn
 yarn global add thanos-nodejs
 ```
