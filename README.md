@@ -14,17 +14,13 @@ Reduce the file size of your project down to 50%, by randomly deleting half of t
 - Free up space
 
 ## Installation
-Module available through the
-[npm registry](https://www.npmjs.com/). It can be installed using the
-[`npm`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
-or
-[`yarn`](https://yarnpkg.com/en/)
-command line tools.
+Module available through the [npm registry](https://www.npmjs.com/). It can be installed using the [`npm`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) or [`yarn`](https://yarnpkg.com/en/) command line tools.
 
 ```sh
-# NPM
+# Using NPM
 npm install thanos-nodejs --global
-# Or Using Yarn
+
+# Using Yarn
 yarn global add thanos-nodejs
 ```
 
@@ -32,19 +28,18 @@ yarn global add thanos-nodejs
 ```sh
 # Delete
 thanos --universe [dir]
+
 # Delete & Save a single file of Thanos
 thanos --universe [dir] --ironman [file]
-
 ```
-
 
 ## Dependencies
 - [minimist](https://ghub.io/minimist): parse argument options
 
-
-
-## Contributors
-Pull requests and stars are always welcome. For bugs and feature requests, please [create an issue](https://github.com/TiagoDanin/Thanos-NodeJS/issues). [List of all contributors](https://github.com/TiagoDanin/Thanos-NodeJS/graphs/contributors).
+## Contribution
+- Pull requests and stars are always welcome
+- For bugs and feature requests, please [create an issue](https://github.com/TiagoDanin/Thanos-NodeJS/issues)
+- See the [list of contributors](https://github.com/TiagoDanin/Thanos-NodeJS/graphs/contributors)
 
 ## Thanks
 - [Netlify](https://thanosjs.org): Inspired by thanosjs.org
