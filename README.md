@@ -3,6 +3,10 @@
 [![Downloads](https://img.shields.io/npm/dt/thanos-nodejs.svg?style=flat-square)](https://npmjs.org/package/thanos-nodejs)
 [![Travis](https://img.shields.io/travis/TiagoDanin/Thanos-NodeJS.svg?branch=master&style=flat-square)](https://travis-ci.org/TiagoDanin/Thanos-NodeJS)
 
+#### Do you have too many pesky packages on you dev machine just wasting space?
+#### Do you need help reducing the size of node dependencies but just can't decide where to start?
+#### Do you want to move back to a simpler time?
+#### You have come to the right place. Thanos-NodeJS will delete half of your files. It will do the deleting for you!!!
 Reduce the file size of your project down to 50%, by randomly deleting half of the files.
 
 ## Features
