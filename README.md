@@ -40,8 +40,5 @@ thanos --universe [dir] --ironman [file]
 ## Thanks
 - [Netlify](https://thanosjs.org): Inspired by thanosjs.org
 
-## Copyright
-[TiagoDanin](https://TiagoDanin.github.io)
-
 ## License
-[MIT](LICENSE)
+[MIT](LICENSE) © [TiagoDanin](https://TiagoDanin.github.io)
