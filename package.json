@@ -39,7 +39,7 @@
 		"thanos": "index.js"
 	},
 	"dependencies": {
-		"minimist": "^1.2.3"
+		"minimist": "^1.2.5"
 	},
 	"devDependencies": {},
 	"features": [
